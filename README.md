@@ -1,4 +1,4 @@
-# A Simple S3 Object Client
+# A Simple S3 Client
 
 Although this S3 client can be used with AWS, the purpose of it's creation was to test Linode's Object Storage service.
 
