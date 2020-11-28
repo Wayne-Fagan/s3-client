@@ -4,7 +4,7 @@ Although this S3 client can be used with AWS, the purpose of it's creation was t
 
 ### Purpose
 
-This client enables you to `push`, `pull`, and `delete` objects to/from a given object.
+This client enables you to `push`, `pull`, and `delete` objects to/from a given bucket.
 
 ### Issues using Linode's Object Storage:
 
