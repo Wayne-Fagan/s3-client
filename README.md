@@ -6,10 +6,6 @@ Although this S3 client can be used with AWS, the purpose of it's creation was t
 
 This client enables you to `push`, `pull`, and `delete` objects to/from a given bucket.
 
-### Issues using Linode's Object Storage:
-
-    - Objects are not pushed directly to the bucket's root, instead a directory is automatically created using the bucket's name and all objects are pushed to this directory.
-    
 ### Requirements
 
 ```
